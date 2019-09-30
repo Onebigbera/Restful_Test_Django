@@ -1,0 +1,18 @@
+user_test:
+   - id: 1
+     username: george
+     email: george@163.com
+
+
+   - id: 2
+     username: steven
+     email: steven@163.com
+
+
+
+group_test:
+   - id: 1
+     name: Developer
+
+   - id: 2
+     name: Tester

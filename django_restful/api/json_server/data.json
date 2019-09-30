@@ -1,0 +1,24 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "george"
+    },
+    {
+      "id": "2",
+      "title": "tom_smith",
+      "author": "jock@126.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "george is a good boy",
+      "post_id": 1
+    }
+  ],
+  "profile": {
+    "name": "george"
+  }
+}
